@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "4feb",
+      "name": "Zapatilla",
+      "brand": "Adidas",
+      "model": "RunFalcon 5",
+      "sport": "Running",
+      "price": "89999",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkp8MogG-DIXLM6lw9lbifCKf1JFliwJ6-UMe0-ckOTBOPwDEqfQJyrQV1KZ1Lm5Q05zeue3IsaMV8RY5S_Mg3FEKfzjeBMNXC6RUoZqG0SaQmbjXwIMPGiw&usqp=CAE"
+    },
+    {
+      "id": "dce5",
+      "name": "Zapatilla",
+      "brand": "Adidas",
+      "model": "Samba OG",
+      "sport": "Moda",
+      "price": "189999",
+      "image": "https://woker.vtexassets.com/arquivos/ids/190266-800-800?v=637497660787370000&width=800&height=800&aspect=true"
+    }
+  ]
+}
